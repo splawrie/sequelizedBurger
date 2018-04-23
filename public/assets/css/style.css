@@ -1,0 +1,44 @@
+.container {
+	background: #FFC04C;
+	max_width: 960px;
+	height: 350px;
+}
+
+h1 {
+	font-family:"Arial", "Helvetica Neue", Helvetica, sans-serif;
+	font-size:36px;
+	background: rgb(40, 122, 91);
+	margin-bottom:20px;
+}
+
+pre {height:35px;
+	width: 450px;	
+	border: 1px solid #ccc;
+	padding-left: 10px;
+}
+
+p {
+	font-size:30px;
+}
+
+#uneaten {
+	font-size: 18px;
+	margin-left: 60px;
+}
+
+.form-control {
+	width: 350px;
+}
+
+.col-xs-3 {
+	left:200px;
+	margin-top: -15px;
+}
+
+#eaten {
+	left: 150px;
+}
+
+#enter_text {
+	width: 100%;
+}
